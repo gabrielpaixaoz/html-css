@@ -26,7 +26,7 @@ grande telas: acima de 1200px
  }
 
  main::after{
-  content:'Essa impressão foi feita atráves do site ww.cursoemvideo.com'
+  content:'Essa impressão foi feita atráves do site ww.cursoemvideo.com';
   text-decoration: overline;
  }
 
